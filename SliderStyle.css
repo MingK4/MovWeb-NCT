@@ -29,7 +29,7 @@
   }
   
   .featured-button {
-    background-color: palevioletred;
+    background-color: #CC0066;
     color: white;
     padding: 10px 20px;
     border-radius: 10px;
@@ -107,7 +107,7 @@
   
   .movie-list-item-button {
     padding: 10px;
-    background-color: #4dbf00;
+    background-color: #000066;
     color: white;
     border-radius: 10px;
     outline: none;
